@@ -1,2 +1,2 @@
 # Ecommerce-shop-here
-An Ecommerce website built using html css and js
+An Ecommerce website Built using html css and js
